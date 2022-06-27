@@ -1,0 +1,26 @@
+@font-face {
+    font-family:'extros' ;
+    src: url(./extrosBackstage.ttf);
+} 
+
+.empresa {
+    font-family: 'extros';
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 900px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+
+    
